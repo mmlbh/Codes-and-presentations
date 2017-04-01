@@ -44,7 +44,7 @@ Realizado no dia 31 de março de 2017, na [Acelera MGTI](http://www.aceleramgti.
 
 ### Atividades:
 
--   Palestra "", com Thiago Akio, Software Engineer na [WorldSense](https://www.worldsense.com).
+-   Palestra "Feature Engineering e Machine Learning para Processamento de Linguagem Natural", com Thiago Akio, Software Engineer na [WorldSense](https://www.worldsense.com).
     -   [Slides](https://docs.google.com/presentation/d/19yC6grfLLB3je3Kq3tYi30i9eA7Yzf38bD3N2x_WUUU/pub?slide=id.g35f391192_00)
 -   Hands on "Introdução ao Kaggle Datasets", com [David Pinto](https://github.com/davpinto), CAO da [Nexer](https://www.nexer.com.br/).
     -   [Slides](https://davpinto.github.io/mmlbh-kaggle)
